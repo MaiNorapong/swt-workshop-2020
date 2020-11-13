@@ -1,0 +1,13 @@
+# Robot Framework Reports
+log.html
+output.xml
+report.html
+
+# Selenium screenshots
+selenium-screenshot-*.png
+
+# Intelli J
+.idea/
+
+# Log files
+*.log
