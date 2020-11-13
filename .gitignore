@@ -11,3 +11,6 @@ selenium-screenshot-*.png
 
 # Log files
 *.log
+
+# Project credentials
+ui/facebook/facebook-credentials.robot
